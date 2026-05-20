@@ -40,7 +40,7 @@ exports.handler = async (event) => {
     }
 
     // Your API key - MAKE SURE THIS IS CORRECT
-    const API_KEY = "AIzaSyDeBJNxil3hzvowkOFiz0-TgE9ivEIFr6Y";
+    const API_KEY = "AIzaSyBjme3M8azEhg1rG0o0aDQk41ax_LO4t5U";
     const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent";
     
     console.log("Calling Gemini API...");
